@@ -1,0 +1,2 @@
+Lato: https://ctan.org/tex-archive/fonts/lato/
+lmr10: https://ctan.org/tex-archive/fonts/lm/fonts/
