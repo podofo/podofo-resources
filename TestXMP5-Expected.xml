@@ -2,7 +2,7 @@
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP toolkit 2.9.1-13, framework 1.6">
   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:iX="http://ns.adobe.com/iX/1.0/">
-    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="">
+    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/" rdf:about="">
       <pdf:Producer>Neevia Document Converter Pro v6.9 (http://neevia.com)</pdf:Producer>
       <xmp:ModifyDate>2018-10-10T10:19:01-04:00</xmp:ModifyDate>
       <xmp:CreateDate>2018-10-10T10:19:01-04:00</xmp:CreateDate>
@@ -16,6 +16,8 @@
       <dc:format>application/pdf</dc:format>
       <pdfaid:part>1</pdfaid:part>
       <pdfaid:conformance>B</pdfaid:conformance>
+      <pdfaid:corr>2:2011</pdfaid:corr>
+      <pdfuaid:part>1</pdfuaid:part>
     </rdf:Description>
   </rdf:RDF>
 </x:xmpmeta>

@@ -8,6 +8,8 @@
 <xmp:CreatorTool>Neevia DC Pro - PSPDF parser</xmp:CreatorTool></rdf:Description>
 <rdf:Description rdf:about='' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:ef042f43-cef2-11e8-0000-5e74692417f0'/>
 <rdf:Description rdf:about='' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
-<rdf:Description rdf:about='' xmlns:pdfaid='http://www.aiim.org/pdfa/ns/id/' pdfaid:part='1' pdfaid:conformance='B'/></rdf:RDF>
+<rdf:Description rdf:about='' xmlns:pdfaid='http://www.aiim.org/pdfa/ns/id/' pdfaid:part='1' pdfaid:conformance='B' pdfaid:corr='2:2011' />
+<rdf:Description rdf:about='' xmlns:pdfuaid='http://www.aiim.org/pdfua/ns/id/' pdfuaid:part='1' />
+</rdf:RDF>
 </x:xmpmeta>
 <?xpacket end='w'?>
