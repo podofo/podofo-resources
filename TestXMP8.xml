@@ -10,13 +10,10 @@
 <pdf:PDFVersion>1.4</pdf:PDFVersion>
 </rdf:Description>
 <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-  xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/"
   xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/" rdf:about="">
 <xmp:CreatorTool>Apache FOP Version SVN branches/fop-2_1</xmp:CreatorTool>
 <xmp:MetadataDate>2019-03-23T16:51:05Z</xmp:MetadataDate>
 <xmp:CreateDate>2019-03-23T16:51:05Z</xmp:CreateDate>
-<pdfaid:part>2</pdfaid:part>
-<pdfaid:conformance>B</pdfaid:conformance>
 <pdfuaid:part>1</pdfuaid:part>
 </rdf:Description>
 </rdf:RDF>
