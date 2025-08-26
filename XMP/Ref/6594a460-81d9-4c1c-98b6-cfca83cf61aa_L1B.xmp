@@ -1,7 +1,7 @@
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <rdf:Description xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" rdf:about="">
+    <rdf:Description xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="">
       <exif:ISOSpeedRatings>
         <rdf:Seq>
           <rdf:li>640</rdf:li>
@@ -41,6 +41,8 @@
       <exif:SceneType>1</exif:SceneType>
       <exif:GPSVersionID>2.2.0.0</exif:GPSVersionID>
       <photoshop:DateCreated>2010-04-21T12:40:12.41</photoshop:DateCreated>
+      <pdfaid:part>1</pdfaid:part>
+      <pdfaid:conformance>B</pdfaid:conformance>
     </rdf:Description>
   </rdf:RDF>
 </x:xmpmeta>

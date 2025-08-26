@@ -1,7 +1,7 @@
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" rdf:about="">
+    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="">
       <dc:creator>
         <rdf:Seq>
           <rdf:li>AnnaisPascual</rdf:li>
@@ -14,6 +14,8 @@
       <dc:format>image/jpeg</dc:format>
       <photoshop:DateCreated>2016-03-02T13:35:49.94</photoshop:DateCreated>
       <xmpMM:DocumentID>xmp.did:ea7905af-433a-4977-a3fb-6060f21bfc61</xmpMM:DocumentID>
+      <pdfaid:part>1</pdfaid:part>
+      <pdfaid:conformance>B</pdfaid:conformance>
     </rdf:Description>
   </rdf:RDF>
 </x:xmpmeta>

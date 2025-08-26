@@ -1,7 +1,7 @@
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" rdf:about="">
+    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="">
       <pdf:Producer>Acrobat Distiller 11.0 (Macintosh)</pdf:Producer>
       <dc:format>application/pdf</dc:format>
       <dc:creator>
@@ -19,6 +19,8 @@
       <xmp:CreateDate>2017-02-14T11:03:19+01:00</xmp:CreateDate>
       <xmpMM:DocumentID>uuid:d11f6278-0db5-db45-a6f5-64a9c6a0b1d5</xmpMM:DocumentID>
       <xmpMM:InstanceID>uuid:93660135-9b56-cb4e-92ad-d117c4d1d65d</xmpMM:InstanceID>
+      <pdfaid:part>2</pdfaid:part>
+      <pdfaid:conformance>B</pdfaid:conformance>
     </rdf:Description>
   </rdf:RDF>
 </x:xmpmeta>
