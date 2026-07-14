@@ -1,0 +1,2 @@
+openssl req -x509 -new -newkey ML-DSA-44 -keyout ML-DSA-44-key.pem  -out ML-DSA-44-cert.pem -days 36500 -nodes -subj "/CN=example.com"
+openssl req -x509 -new -newkey slh-dsa-sha2-128f -keyout slh-dsa-sha2-128f-key.pem -out slh-dsa-sha2-128f-cert.pem -days 36500 -nodes -subj "/CN=example.com"
